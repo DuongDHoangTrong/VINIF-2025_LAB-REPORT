@@ -34,11 +34,11 @@ input.csv - This file contains the positions of H and the potential parameters p
 INPUT.nml - This file contains variables for solving TISE, TDSE, and laser parameters (details provided below).
 
 =======================================================================================================================	  
-Variable 			Type 			Meaning 														Recommendation
+Variable 		Type 			Meaning 														
 -----------------------------------------------------------------------------------------------------------------------
-For laser (Envelope type of laser is ’sin2’)
+For laser  (Envelope type of laser is ’sin2’)
 -----------------------------------------------------------------------------------------------------------------------
-theta 				real			Orientation					(degree)
+theta 			real			Orientation					(degree)
 I0  				real 			Intensity 					(10x14 W/cm2)
 L0  				real 			Wavelength 					(nm)
 w0 					real 			Frequency 					(a.u.)
