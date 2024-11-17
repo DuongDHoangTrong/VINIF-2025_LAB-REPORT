@@ -42,7 +42,7 @@ theta         real			Orientation					      (degree)
 I0            real 			Intensity 					      (10x14 W/cm2)
 L0            real 			Wavelength 					      (nm)
 w0            real 			Frequency 					      (a.u.)
-cep           real 			Carrier-envelope phase 		(radian)
+cep           real 			Carrier-envelope phase    (radian)
 Np            real 			Number of optical cycles				 	
 =======================================================================================================================
 
